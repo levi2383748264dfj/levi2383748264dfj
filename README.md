@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @levi2383748264dfj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...blooket
+- 🌱 I’m currently learning ...math
+- 💞️ I’m looking to collaborate on ...blooket
 - 📫 How to reach me ...blooket
 
 <!---
